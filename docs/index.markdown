@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: main-page
 title: Home
 ---
 
 # Welcome to My Portfolio
 
-![Profile Image](docs/assets/images/profile-pic.jpeg){:style="width: 150px; border-radius: 50%;"}
+![Profile Image](/docs/assets/images/profile-pic.jpeg)
 
 ## About Me
 
@@ -19,11 +19,11 @@ I'm currently a student in the LaunchCode Software Development course, where I'm
 
 [**Download My Resume (PDF)**](/docs/assets/resume-2025.pdf)
 
-# My Projects
-
 ---
 
-## Volunteer STL
+## My Projects
+
+### Volunteer STL
 
 A responsive web app created to help communities organize, promote, and manage local volunteer efforts efficiently. Created in the wake of the 2025 St Louis City tornado, Volunteer STL's core mission is rooted in compassion, empathy, and perseverance
 
@@ -31,6 +31,6 @@ A responsive web app created to help communities organize, promote, and manage l
 
 ---
 
-# Contact Me
+## Contact Me
   
 **LinkedIn:** [linkedin.com/in/savion-rj](https://www.linkedin.com/in/savion-rj/)
