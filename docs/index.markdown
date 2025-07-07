@@ -5,19 +5,19 @@ title: Home
 
 # Welcome to My Portfolio
 
-![Profile Image](/assets/images/profile-pic.jpeg){:style="width: 150px; border-radius: 50%;"}
+![Profile Image](docs/assets/images/profile-pic.jpeg){:style="width: 150px; border-radius: 50%;"}
 
 ## About Me
 
 As a Computer Science graduate with minors in Film Production and Interactive Digital Media, I'm passionate about bridging the gap between technology and creative expression. I'm especially drawn to the intersection of thoughtful design and storytelling, and how these elements can shape more intuitive, human-centered experiences
 
 I'm currently a student in the LaunchCode Software Development course, where I'm building a strong foundation in responsive web design and the efficient implementation of modular interactive components, while also deepening my understanding of object-oriented programming and relational databases.
----
 
+---
 
 ## Resume & Achievements
 
-[**Download My Resume (PDF)**](/assets/resume-2025.pdf)
+[**Download My Resume (PDF)**](/docs/assets/resume-2025.pdf)
 
 # My Projects
 

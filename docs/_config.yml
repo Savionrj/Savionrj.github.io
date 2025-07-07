@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: SRJ Portfolio
-email: your-email@example.com
+email: savionrj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal developer portfolio, built with Jekyll and GitHub Pages.
 baseurl: "/Savionrj.github.io" # the subpath of your site, e.g. /blog
