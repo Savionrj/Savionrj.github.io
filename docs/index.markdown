@@ -1,5 +1,5 @@
 ---
-layout: main-page
+layout: home
 title: Home
 ---
 
